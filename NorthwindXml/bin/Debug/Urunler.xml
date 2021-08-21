@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products version="156">
+  <Product id="1">
+    <ProductName>Chai</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Exotic Liquids</SupplierName>
+    <UnitPrice>18.0000</UnitPrice>
+  </Product>
+  <Product id="2">
+    <ProductName>Chang</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Exotic Liquids</SupplierName>
+    <UnitPrice>19.0000</UnitPrice>
+  </Product>
+  <Product id="3">
+    <ProductName>Aniseed Syrup</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>Exotic Liquids</SupplierName>
+    <UnitPrice>10.0000</UnitPrice>
+  </Product>
+  <Product id="4">
+    <ProductName>Chef Anton's Cajun Seasoning</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>New Orleans Cajun Delights</SupplierName>
+    <UnitPrice>22.0000</UnitPrice>
+  </Product>
+  <Product id="5">
+    <ProductName>Chef Anton's Gumbo Mix</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>New Orleans Cajun Delights</SupplierName>
+    <UnitPrice>21.3500</UnitPrice>
+  </Product>
+  <Product id="6">
+    <ProductName>Grandma's Boysenberry Spread</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>Grandma Kelly's Homestead</SupplierName>
+    <UnitPrice>25.0000</UnitPrice>
+  </Product>
+  <Product id="7">
+    <ProductName>Uncle Bob's Organic Dried Pears</ProductName>
+    <CategoryName>Produce</CategoryName>
+    <SupplierName>Grandma Kelly's Homestead</SupplierName>
+    <UnitPrice>30.0000</UnitPrice>
+  </Product>
+  <Product id="8">
+    <ProductName>Northwoods Cranberry Sauce</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>Grandma Kelly's Homestead</SupplierName>
+    <UnitPrice>40.0000</UnitPrice>
+  </Product>
+  <Product id="9">
+    <ProductName>Mishi Kobe Niku</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <SupplierName>Tokyo Traders</SupplierName>
+    <UnitPrice>97.0000</UnitPrice>
+  </Product>
+  <Product id="10">
+    <ProductName>Ikura</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>Tokyo Traders</SupplierName>
+    <UnitPrice>31.0000</UnitPrice>
+  </Product>
+  <Product id="11">
+    <ProductName>Queso Cabrales</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <SupplierName>Cooperativa de Quesos 'Las Cabras'</SupplierName>
+    <UnitPrice>21.0000</UnitPrice>
+  </Product>
+  <Product id="12">
+    <ProductName>Queso Manchego La Pastora</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <SupplierName>Cooperativa de Quesos 'Las Cabras'</SupplierName>
+    <UnitPrice>38.0000</UnitPrice>
+  </Product>
+  <Product id="13">
+    <ProductName>Konbu</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>Mayumi's</SupplierName>
+    <UnitPrice>6.0000</UnitPrice>
+  </Product>
+  <Product id="14">
+    <ProductName>Tofu</ProductName>
+    <CategoryName>Produce</CategoryName>
+    <SupplierName>Mayumi's</SupplierName>
+    <UnitPrice>23.2500</UnitPrice>
+  </Product>
+  <Product id="15">
+    <ProductName>Genen Shouyu</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>Mayumi's</SupplierName>
+    <UnitPrice>15.5000</UnitPrice>
+  </Product>
+  <Product id="16">
+    <ProductName>Pavlova</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Pavlova, Ltd.</SupplierName>
+    <UnitPrice>17.4500</UnitPrice>
+  </Product>
+  <Product id="17">
+    <ProductName>Alice Mutton</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <SupplierName>Pavlova, Ltd.</SupplierName>
+    <UnitPrice>39.0000</UnitPrice>
+  </Product>
+  <Product id="18">
+    <ProductName>Carnarvon Tigers</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>Pavlova, Ltd.</SupplierName>
+    <UnitPrice>62.5000</UnitPrice>
+  </Product>
+  <Product id="19">
+    <ProductName>Teatime Chocolate Biscuits</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Specialty Biscuits, Ltd.</SupplierName>
+    <UnitPrice>9.2000</UnitPrice>
+  </Product>
+  <Product id="20">
+    <ProductName>Sir Rodney's Marmalade</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Specialty Biscuits, Ltd.</SupplierName>
+    <UnitPrice>81.0000</UnitPrice>
+  </Product>
+  <Product id="21">
+    <ProductName>Sir Rodney's Scones</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Specialty Biscuits, Ltd.</SupplierName>
+    <UnitPrice>10.0000</UnitPrice>
+  </Product>
+  <Product id="22">
+    <ProductName>Gustaf's Knäckebröd</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <SupplierName>PB Knäckebröd AB</SupplierName>
+    <UnitPrice>21.0000</UnitPrice>
+  </Product>
+  <Product id="23">
+    <ProductName>Tunnbröd</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <SupplierName>PB Knäckebröd AB</SupplierName>
+    <UnitPrice>9.0000</UnitPrice>
+  </Product>
+  <Product id="24">
+    <ProductName>Guaraná Fantástica</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Refrescos Americanas LTDA</SupplierName>
+    <UnitPrice>4.5000</UnitPrice>
+  </Product>
+  <Product id="25">
+    <ProductName>NuNuCa Nuß-Nougat-Creme</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Heli Süßwaren GmbH &amp; Co. KG</SupplierName>
+    <UnitPrice>14.0000</UnitPrice>
+  </Product>
+  <Product id="26">
+    <ProductName>Gumbär Gummibärchen</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Heli Süßwaren GmbH &amp; Co. KG</SupplierName>
+    <UnitPrice>31.2300</UnitPrice>
+  </Product>
+  <Product id="27">
+    <ProductName>Schoggi Schokolade</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Heli Süßwaren GmbH &amp; Co. KG</SupplierName>
+    <UnitPrice>43.9000</UnitPrice>
+  </Product>
+  <Product id="28">
+    <ProductName>Rössle Sauerkraut</ProductName>
+    <CategoryName>Produce</CategoryName>
+    <SupplierName>Plutzer Lebensmittelgroßmärkte AG</SupplierName>
+    <UnitPrice>45.6000</UnitPrice>
+  </Product>
+  <Product id="29">
+    <ProductName>Thüringer Rostbratwurst</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <SupplierName>Plutzer Lebensmittelgroßmärkte AG</SupplierName>
+    <UnitPrice>123.7900</UnitPrice>
+  </Product>
+  <Product id="30">
+    <ProductName>Nord-Ost Matjeshering</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>Nord-Ost-Fisch Handelsgesellschaft mbH</SupplierName>
+    <UnitPrice>25.8900</UnitPrice>
+  </Product>
+  <Product id="31">
+    <ProductName>Gorgonzola Telino</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <SupplierName>Formaggi Fortini s.r.l.</SupplierName>
+    <UnitPrice>12.5000</UnitPrice>
+  </Product>
+  <Product id="32">
+    <ProductName>Mascarpone Fabioli</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <SupplierName>Formaggi Fortini s.r.l.</SupplierName>
+    <UnitPrice>32.0000</UnitPrice>
+  </Product>
+  <Product id="33">
+    <ProductName>Geitost</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <SupplierName>Norske Meierier</SupplierName>
+    <UnitPrice>2.5000</UnitPrice>
+  </Product>
+  <Product id="34">
+    <ProductName>Sasquatch Ale</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Bigfoot Breweries</SupplierName>
+    <UnitPrice>14.0000</UnitPrice>
+  </Product>
+  <Product id="35">
+    <ProductName>Steeleye Stout</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Bigfoot Breweries</SupplierName>
+    <UnitPrice>18.0000</UnitPrice>
+  </Product>
+  <Product id="36">
+    <ProductName>Inlagd Sill</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>Svensk Sjöföda AB</SupplierName>
+    <UnitPrice>19.0000</UnitPrice>
+  </Product>
+  <Product id="37">
+    <ProductName>Gravad lax</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>Svensk Sjöföda AB</SupplierName>
+    <UnitPrice>26.0000</UnitPrice>
+  </Product>
+  <Product id="38">
+    <ProductName>Côte de Blaye</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Aux joyeux ecclésiastiques</SupplierName>
+    <UnitPrice>263.5000</UnitPrice>
+  </Product>
+  <Product id="39">
+    <ProductName>Chartreuse verte</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Aux joyeux ecclésiastiques</SupplierName>
+    <UnitPrice>18.0000</UnitPrice>
+  </Product>
+  <Product id="40">
+    <ProductName>Boston Crab Meat</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>New England Seafood Cannery</SupplierName>
+    <UnitPrice>18.4000</UnitPrice>
+  </Product>
+  <Product id="41">
+    <ProductName>Jack's New England Clam Chowder</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>New England Seafood Cannery</SupplierName>
+    <UnitPrice>9.6500</UnitPrice>
+  </Product>
+  <Product id="42">
+    <ProductName>Singaporean Hokkien Fried Mee</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <SupplierName>Leka Trading</SupplierName>
+    <UnitPrice>14.0000</UnitPrice>
+  </Product>
+  <Product id="43">
+    <ProductName>Ipoh Coffee</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Leka Trading</SupplierName>
+    <UnitPrice>46.0000</UnitPrice>
+  </Product>
+  <Product id="44">
+    <ProductName>Gula Malacca</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>Leka Trading</SupplierName>
+    <UnitPrice>19.4500</UnitPrice>
+  </Product>
+  <Product id="45">
+    <ProductName>Rogede sild</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>Lyngbysild</SupplierName>
+    <UnitPrice>9.5000</UnitPrice>
+  </Product>
+  <Product id="46">
+    <ProductName>Spegesild</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>Lyngbysild</SupplierName>
+    <UnitPrice>12.0000</UnitPrice>
+  </Product>
+  <Product id="47">
+    <ProductName>Zaanse koeken</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Zaanse Snoepfabriek</SupplierName>
+    <UnitPrice>9.5000</UnitPrice>
+  </Product>
+  <Product id="48">
+    <ProductName>Chocolade</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Zaanse Snoepfabriek</SupplierName>
+    <UnitPrice>12.7500</UnitPrice>
+  </Product>
+  <Product id="49">
+    <ProductName>Maxilaku</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Karkki Oy</SupplierName>
+    <UnitPrice>20.0000</UnitPrice>
+  </Product>
+  <Product id="50">
+    <ProductName>Valkoinen suklaa</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Karkki Oy</SupplierName>
+    <UnitPrice>16.2500</UnitPrice>
+  </Product>
+  <Product id="51">
+    <ProductName>Manjimup Dried Apples</ProductName>
+    <CategoryName>Produce</CategoryName>
+    <SupplierName>G'day, Mate</SupplierName>
+    <UnitPrice>53.0000</UnitPrice>
+  </Product>
+  <Product id="52">
+    <ProductName>Filo Mix</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <SupplierName>G'day, Mate</SupplierName>
+    <UnitPrice>7.0000</UnitPrice>
+  </Product>
+  <Product id="53">
+    <ProductName>Perth Pasties</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <SupplierName>G'day, Mate</SupplierName>
+    <UnitPrice>32.8000</UnitPrice>
+  </Product>
+  <Product id="54">
+    <ProductName>Tourtière</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <SupplierName>Ma Maison</SupplierName>
+    <UnitPrice>7.4500</UnitPrice>
+  </Product>
+  <Product id="55">
+    <ProductName>Pâté chinois</ProductName>
+    <CategoryName>Meat/Poultry</CategoryName>
+    <SupplierName>Ma Maison</SupplierName>
+    <UnitPrice>24.0000</UnitPrice>
+  </Product>
+  <Product id="56">
+    <ProductName>Gnocchi di nonna Alice</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <SupplierName>Pasta Buttini s.r.l.</SupplierName>
+    <UnitPrice>38.0000</UnitPrice>
+  </Product>
+  <Product id="57">
+    <ProductName>Ravioli Angelo</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <SupplierName>Pasta Buttini s.r.l.</SupplierName>
+    <UnitPrice>19.5000</UnitPrice>
+  </Product>
+  <Product id="58">
+    <ProductName>Escargots de Bourgogne</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>Escargots Nouveaux</SupplierName>
+    <UnitPrice>13.2500</UnitPrice>
+  </Product>
+  <Product id="59">
+    <ProductName>Raclette Courdavault</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <SupplierName>Gai pâturage</SupplierName>
+    <UnitPrice>55.0000</UnitPrice>
+  </Product>
+  <Product id="60">
+    <ProductName>Camembert Pierrot</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <SupplierName>Gai pâturage</SupplierName>
+    <UnitPrice>34.0000</UnitPrice>
+  </Product>
+  <Product id="61">
+    <ProductName>Sirop d'érable</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>Forêts d'érables</SupplierName>
+    <UnitPrice>28.5000</UnitPrice>
+  </Product>
+  <Product id="62">
+    <ProductName>Tarte au sucre</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Forêts d'érables</SupplierName>
+    <UnitPrice>49.3000</UnitPrice>
+  </Product>
+  <Product id="63">
+    <ProductName>Vegie-spread</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>Pavlova, Ltd.</SupplierName>
+    <UnitPrice>43.9000</UnitPrice>
+  </Product>
+  <Product id="64">
+    <ProductName>Wimmers gute Semmelknödel</ProductName>
+    <CategoryName>Grains/Cereals</CategoryName>
+    <SupplierName>Plutzer Lebensmittelgroßmärkte AG</SupplierName>
+    <UnitPrice>33.2500</UnitPrice>
+  </Product>
+  <Product id="65">
+    <ProductName>Louisiana Fiery Hot Pepper Sauce</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>New Orleans Cajun Delights</SupplierName>
+    <UnitPrice>21.0500</UnitPrice>
+  </Product>
+  <Product id="66">
+    <ProductName>Louisiana Hot Spiced Okra</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>New Orleans Cajun Delights</SupplierName>
+    <UnitPrice>17.0000</UnitPrice>
+  </Product>
+  <Product id="67">
+    <ProductName>Laughing Lumberjack Lager</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Bigfoot Breweries</SupplierName>
+    <UnitPrice>14.0000</UnitPrice>
+  </Product>
+  <Product id="68">
+    <ProductName>Scottish Longbreads</ProductName>
+    <CategoryName>Confections</CategoryName>
+    <SupplierName>Specialty Biscuits, Ltd.</SupplierName>
+    <UnitPrice>12.5000</UnitPrice>
+  </Product>
+  <Product id="69">
+    <ProductName>Gudbrandsdalsost</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <SupplierName>Norske Meierier</SupplierName>
+    <UnitPrice>36.0000</UnitPrice>
+  </Product>
+  <Product id="70">
+    <ProductName>Outback Lager</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Pavlova, Ltd.</SupplierName>
+    <UnitPrice>15.0000</UnitPrice>
+  </Product>
+  <Product id="71">
+    <ProductName>Flotemysost</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <SupplierName>Norske Meierier</SupplierName>
+    <UnitPrice>21.5000</UnitPrice>
+  </Product>
+  <Product id="72">
+    <ProductName>Mozzarella di Giovanni</ProductName>
+    <CategoryName>Dairy Products</CategoryName>
+    <SupplierName>Formaggi Fortini s.r.l.</SupplierName>
+    <UnitPrice>34.8000</UnitPrice>
+  </Product>
+  <Product id="73">
+    <ProductName>Röd Kaviar</ProductName>
+    <CategoryName>Seafood</CategoryName>
+    <SupplierName>Svensk Sjöföda AB</SupplierName>
+    <UnitPrice>15.0000</UnitPrice>
+  </Product>
+  <Product id="74">
+    <ProductName>Longlife Tofu</ProductName>
+    <CategoryName>Produce</CategoryName>
+    <SupplierName>Tokyo Traders</SupplierName>
+    <UnitPrice>10.0000</UnitPrice>
+  </Product>
+  <Product id="75">
+    <ProductName>Rhönbräu Klosterbier</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Plutzer Lebensmittelgroßmärkte AG</SupplierName>
+    <UnitPrice>7.7500</UnitPrice>
+  </Product>
+  <Product id="76">
+    <ProductName>Lakkalikööri</ProductName>
+    <CategoryName>Beverages</CategoryName>
+    <SupplierName>Karkki Oy</SupplierName>
+    <UnitPrice>18.0000</UnitPrice>
+  </Product>
+  <Product id="77">
+    <ProductName>Original Frankfurter grüne Soße</ProductName>
+    <CategoryName>Condiments</CategoryName>
+    <SupplierName>Plutzer Lebensmittelgroßmärkte AG</SupplierName>
+    <UnitPrice>13.0000</UnitPrice>
+  </Product>
+  <Product id="78">
+    <ProductName>Kaçak Çay</ProductName>
+    <CategoryName></CategoryName>
+    <SupplierName></SupplierName>
+    <UnitPrice>0.0000</UnitPrice>
+  </Product>
+  <Product id="79">
+    <ProductName>Kaçak Çay</ProductName>
+    <CategoryName></CategoryName>
+    <SupplierName></SupplierName>
+    <UnitPrice>0.0000</UnitPrice>
+  </Product>
+</Products>
